@@ -54,8 +54,6 @@ public class StatistischeAuswertung {
 			
 		}
 		
-		//a
-		
 		//Stichprobe
 		Abweichung = Abweichung / (zahl.length-1);
 		
